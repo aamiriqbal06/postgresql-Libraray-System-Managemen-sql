@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project]([postgrsql-Library-System-Management-sql/library.jpg](https://github.com/aamiriqbal06/postgresql-Libraray-System-Managemen-sql/blob/main/library.jpg))
+![Library_project](https://github.com/aamiriqbal06/postgresql-Libraray-System-Managemen-sql/blob/main/library.jpg)
 
 ## Objectivesu
 
@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD]([postgrsql-Library-System-Management-sql/library_erd.png](https://github.com/aamiriqbal06/postgresql-Libraray-System-Managemen-sql/blob/main/library_erd.png))
+![ERD](https://github.com/aamiriqbal06/postgresql-Libraray-System-Managemen-sql/blob/main/library_erd.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
