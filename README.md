@@ -125,7 +125,3 @@ Aspiring Data Analyst | SQL | PostgreSQL
 If you found this project interesting, feel free to connect or provide feedback!
 
 ---
-
-## ⚠ Disclaimer
-
-This project is built for educational purposes and uses simulated data.
