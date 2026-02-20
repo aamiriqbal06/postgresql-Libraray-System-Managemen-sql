@@ -123,5 +123,3 @@ Aspiring Data Analyst | SQL | PostgreSQL
 ---
 
 If you found this project interesting, feel free to connect or provide feedback!
-
----
